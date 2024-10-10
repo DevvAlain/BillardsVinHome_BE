@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|c:\\users\\admin\\desktop\\billiardmanagement\\billiardmanagement\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|solutionrelative:billiardmanagement\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|c:\\users\\admin\\desktop\\billiardmanagement\\billiardmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|solutionrelative:billiardmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|c:\\users\\admin\\desktop\\billiardmanagement\\billiardmanagement\\services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|solutionrelative:billiardmanagement\\services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|c:\\users\\admin\\desktop\\billiardmanagement\\billiardmanagement\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|solutionrelative:billiardmanagement\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|c:\\users\\admin\\desktop\\billiardmanagement\\billiardmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|solutionrelative:billiardmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|c:\\users\\admin\\desktop\\billiardmanagement\\billiardmanagement\\entities\\billiardsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|solutionrelative:billiardmanagement\\entities\\billiardsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|c:\\users\\admin\\desktop\\billiardmanagement\\billiardmanagement\\billiardmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA3BD148-DE82-49EE-89F3-B7406FD12D3D}|BilliardManagement\\BilliardManagement.csproj|solutionrelative:billiardmanagement\\billiardmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Services\\Implementations\\RoleService.cs",
+              "RelativeDocumentMoniker": "BilliardManagement\\Services\\Implementations\\RoleService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Services\\Implementations\\RoleService.cs",
+              "RelativeToolTip": "BilliardManagement\\Services\\Implementations\\RoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:05:54.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "BilliardManagement\\Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "BilliardManagement\\Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:04:48.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "BilliardManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\appsettings.json",
+              "RelativeToolTip": "BilliardManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T14:56:41.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "BilliardManagement\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "BilliardManagement\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:17:49.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BilliardManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Program.cs",
+              "RelativeToolTip": "BilliardManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:54:16.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BilliardsManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Entities\\BilliardsManagementContext.cs",
+              "RelativeDocumentMoniker": "BilliardManagement\\Entities\\BilliardsManagementContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\Entities\\BilliardsManagementContext.cs",
+              "RelativeToolTip": "BilliardManagement\\Entities\\BilliardsManagementContext.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:44:36.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BilliardManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\BilliardManagement.csproj",
+              "RelativeDocumentMoniker": "BilliardManagement\\BilliardManagement.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BilliardManagement\\BilliardManagement\\BilliardManagement.csproj",
+              "RelativeToolTip": "BilliardManagement\\BilliardManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T14:36:16.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
